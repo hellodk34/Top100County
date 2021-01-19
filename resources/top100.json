@@ -1,0 +1,502 @@
+[
+  {
+    "county": "昆山市",
+    "province": "江苏省",
+    "index": 1
+  },
+  {
+    "county": "江阴市",
+    "province": "江苏省",
+    "index": 2
+  },
+  {
+    "county": "张家港市",
+    "province": "江苏省",
+    "index": 3
+  },
+  {
+    "county": "晋江市",
+    "province": "福建省",
+    "index": 4
+  },
+  {
+    "county": "常熟市",
+    "province": "江苏省",
+    "index": 5
+  },
+  {
+    "county": "长沙县",
+    "province": "湖南省",
+    "index": 6
+  },
+  {
+    "county": "太仓市",
+    "province": "江苏省",
+    "index": 7
+  },
+  {
+    "county": "慈溪市",
+    "province": "浙江省",
+    "index": 8
+  },
+  {
+    "county": "义乌市",
+    "province": "浙江省",
+    "index": 9
+  },
+  {
+    "county": "龙口市",
+    "province": "山东省",
+    "index": 10
+  },
+  {
+    "county": "宜兴市",
+    "province": "江苏省",
+    "index": 11
+  },
+  {
+    "county": "胶州市",
+    "province": "山东省",
+    "index": 12
+  },
+  {
+    "county": "海门市",
+    "province": "江苏省",
+    "index": 13
+  },
+  {
+    "county": "荣成市",
+    "province": "山东省",
+    "index": 14
+  },
+  {
+    "county": "福清市",
+    "province": "福建省",
+    "index": 15
+  },
+  {
+    "county": "余姚市",
+    "province": "浙江省",
+    "index": 16
+  },
+  {
+    "county": "浏阳市",
+    "province": "湖南省",
+    "index": 17
+  },
+  {
+    "county": "诸暨市",
+    "province": "浙江省",
+    "index": 18
+  },
+  {
+    "county": "海宁市",
+    "province": "浙江省",
+    "index": 19
+  },
+  {
+    "county": "宁乡市",
+    "province": "湖南省",
+    "index": 20
+  },
+  {
+    "county": "乐清市",
+    "province": "浙江省",
+    "index": 21
+  },
+  {
+    "county": "石狮市",
+    "province": "福建省",
+    "index": 22
+  },
+  {
+    "county": "南安市",
+    "province": "福建省",
+    "index": 23
+  },
+  {
+    "county": "泰兴市",
+    "province": "江苏省",
+    "index": 24
+  },
+  {
+    "county": "温岭市",
+    "province": "浙江省",
+    "index": 25
+  },
+  {
+    "county": "如皋市",
+    "province": "江苏省",
+    "index": 26
+  },
+  {
+    "county": "瑞安市",
+    "province": "浙江省",
+    "index": 27
+  },
+  {
+    "county": "启东市",
+    "province": "江苏省",
+    "index": 28
+  },
+  {
+    "county": "桐乡市",
+    "province": "浙江省",
+    "index": 29
+  },
+  {
+    "county": "迁安市",
+    "province": "河北省",
+    "index": 30
+  },
+  {
+    "county": "丹阳市",
+    "province": "江苏省",
+    "index": 31
+  },
+  {
+    "county": "海安市",
+    "province": "江苏省",
+    "index": 32
+  },
+  {
+    "county": "靖江市",
+    "province": "江苏省",
+    "index": 33
+  },
+  {
+    "county": "滕州市",
+    "province": "山东省",
+    "index": 34
+  },
+  {
+    "county": "如东县",
+    "province": "江苏省",
+    "index": 35
+  },
+  {
+    "county": "惠安县",
+    "province": "福建省",
+    "index": 36
+  },
+  {
+    "county": "溧阳市",
+    "province": "江苏省",
+    "index": 37
+  },
+  {
+    "county": "准格尔旗",
+    "province": "内蒙古自治区",
+    "index": 38
+  },
+  {
+    "county": "寿光市",
+    "province": "山东省",
+    "index": 39
+  },
+  {
+    "county": "新郑市",
+    "province": "河南省",
+    "index": 40
+  },
+  {
+    "county": "诸城市",
+    "province": "山东省",
+    "index": 41
+  },
+  {
+    "county": "南昌县",
+    "province": "江西省",
+    "index": 42
+  },
+  {
+    "county": "仁怀市",
+    "province": "贵州省",
+    "index": 43
+  },
+  {
+    "county": "神木市",
+    "province": "陕西省",
+    "index": 44
+  },
+  {
+    "county": "东台市",
+    "province": "江苏省",
+    "index": 45
+  },
+  {
+    "county": "邳州市 (pī zhōu shì)",
+    "province": "江苏省",
+    "index": 46
+  },
+  {
+    "county": "平度市",
+    "province": "山东省",
+    "index": 47
+  },
+  {
+    "county": "莱州市",
+    "province": "山东省",
+    "index": 48
+  },
+  {
+    "county": "平湖市",
+    "province": "浙江省",
+    "index": 49
+  },
+  {
+    "county": "三河市",
+    "province": "河北省",
+    "index": 50
+  },
+  {
+    "county": "巩义市",
+    "province": "河南省",
+    "index": 51
+  },
+  {
+    "county": "招远市",
+    "province": "山东省",
+    "index": 52
+  },
+  {
+    "county": "长兴县",
+    "province": "浙江省",
+    "index": 53
+  },
+  {
+    "county": "仪征市",
+    "province": "江苏省",
+    "index": 54
+  },
+  {
+    "county": "邹城市",
+    "province": "山东省",
+    "index": 55
+  },
+  {
+    "county": "闽侯县",
+    "province": "福建省",
+    "index": 56
+  },
+  {
+    "county": "嘉善县",
+    "province": "浙江省",
+    "index": 57
+  },
+  {
+    "county": "肥城市",
+    "province": "山东省",
+    "index": 58
+  },
+  {
+    "county": "兴化市",
+    "province": "江苏省",
+    "index": 59
+  },
+  {
+    "county": "宁海县",
+    "province": "浙江省",
+    "index": 60
+  },
+  {
+    "county": "伊金霍洛旗",
+    "province": "内蒙古自治区",
+    "index": 61
+  },
+  {
+    "county": "新密市",
+    "province": "河南省",
+    "index": 62
+  },
+  {
+    "county": "肥西县",
+    "province": "安徽省",
+    "index": 63
+  },
+  {
+    "county": "东阳市",
+    "province": "浙江省",
+    "index": 64
+  },
+  {
+    "county": "永城市",
+    "province": "河南省",
+    "index": 65
+  },
+  {
+    "county": "荥阳市 (xíng yáng shì)",
+    "province": "江苏省",
+    "index": 66
+  },
+  {
+    "county": "扬中市",
+    "province": "江苏省",
+    "index": 67
+  },
+  {
+    "county": "济源市",
+    "province": "河南省",
+    "index": 68
+  },
+  {
+    "county": "沛县",
+    "province": "江苏省",
+    "index": 69
+  },
+  {
+    "county": "玉环市",
+    "province": "浙江省",
+    "index": 70
+  },
+  {
+    "county": "瓦房店市",
+    "province": "辽宁省",
+    "index": 71
+  },
+  {
+    "county": "大冶市",
+    "province": "湖北省",
+    "index": 72
+  },
+  {
+    "county": "广饶县",
+    "province": "山东省",
+    "index": 73
+  },
+  {
+    "county": "醴陵市 (lǐ líng shì)",
+    "province": "湖南省",
+    "index": 74
+  },
+  {
+    "county": "莱西市",
+    "province": "山东省",
+    "index": 75
+  },
+  {
+    "county": "新泰市",
+    "province": "山东省",
+    "index": 76
+  },
+  {
+    "county": "宜都市",
+    "province": "湖北省",
+    "index": 77
+  },
+  {
+    "county": "沐阳县",
+    "province": "江苏省",
+    "index": 78
+  },
+  {
+    "county": "仙桃市",
+    "province": "湖北省",
+    "index": 79
+  },
+  {
+    "county": "邹平市",
+    "province": "山东省",
+    "index": 80
+  },
+  {
+    "county": "高邮市",
+    "province": "江苏省",
+    "index": 81
+  },
+  {
+    "county": "句容市",
+    "province": "江苏省",
+    "index": 82
+  },
+  {
+    "county": "临海市",
+    "province": "浙江省",
+    "index": 83
+  },
+  {
+    "county": "射阳县",
+    "province": "江苏省",
+    "index": 84
+  },
+  {
+    "county": "永康市",
+    "province": "浙江省",
+    "index": 85
+  },
+  {
+    "county": "苍南县",
+    "province": "浙江省",
+    "index": 86
+  },
+  {
+    "county": "海城市",
+    "province": "辽宁省",
+    "index": 87
+  },
+  {
+    "county": "潜江市",
+    "province": "湖北省",
+    "index": 88
+  },
+  {
+    "county": "庄河市",
+    "province": "辽宁省",
+    "index": 89
+  },
+  {
+    "county": "长丰县",
+    "province": "安徽省",
+    "index": 90
+  },
+  {
+    "county": "安宁市",
+    "province": "云南省",
+    "index": 91
+  },
+  {
+    "county": "肥东县",
+    "province": "安徽省",
+    "index": 92
+  },
+  {
+    "county": "博罗县",
+    "province": "广东省",
+    "index": 93
+  },
+  {
+    "county": "枣阳市",
+    "province": "湖北省",
+    "index": 94
+  },
+  {
+    "county": "库尔勒市",
+    "province": "新疆维吾尔自治区",
+    "index": 95
+  },
+  {
+    "county": "汝州市",
+    "province": "河南省",
+    "index": 96
+  },
+  {
+    "county": "汉川市",
+    "province": "湖北省",
+    "index": 97
+  },
+  {
+    "county": "昌吉市",
+    "province": "新疆维吾尔自治区",
+    "index": 98
+  },
+  {
+    "county": "枝江市",
+    "province": "湖北省",
+    "index": 99
+  },
+  {
+    "county": "府谷县",
+    "province": "陕西省",
+    "index": 100
+  }
+]
