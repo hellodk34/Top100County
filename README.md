@@ -28,3 +28,6 @@ program output:
 广东省: 1个, 这个县（市、旗）是: 博罗县
 云南省: 1个, 这个县（市、旗）是: 安宁市
 ```
+
+![image.jpg](https://wx4.sinaimg.cn/large/768ab125ly1gh6r5jzqprj20ff0zzn3b.jpg)
+> the original news: <https://weibo.com/1988800805/JdiymbgOD>
